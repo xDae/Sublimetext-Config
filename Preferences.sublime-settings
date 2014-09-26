@@ -1,0 +1,28 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Expanded.tmtheme",
+	"fade_fold_buttons": false,
+	"font_face": "Inconsolata",
+	"font_size": 18.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active",
+		"draw_combined"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"auto_indent": true,
+	"detect_indentation": true,
+	"use_tab_stops": true,
+	"word_wrap": true
+}
