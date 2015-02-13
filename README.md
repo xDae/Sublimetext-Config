@@ -1,4 +1,4 @@
-Sublime Text 2 Config
+Sublime Text Config
 =====================
 
 ### Configuración personal de mi editor Sublime Text 3
